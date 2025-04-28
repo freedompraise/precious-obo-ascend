@@ -43,7 +43,7 @@ const HeroSection = () => {
                 "I've helped over 100+ entrepreneurs transform their LinkedIn presence and generate consistent leads that convert to 6-7 figure income."
               </p>
               <div className="flex justify-between text-sm">
-                <span className="text-brand-teal font-bold">15K+ Followers</span>
+                <span className="text-brand-teal font-bold">30K+ Followers</span>
                 <span className="text-brand-teal font-bold">100+ Clients</span>
                 <span className="text-brand-teal font-bold">6-7 Figure Results</span>
               </div>
