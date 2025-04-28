@@ -5,7 +5,7 @@ import { Check } from 'lucide-react';
 const AboutSection = () => {
   const achievements = [
     "Over 100+ LinkedIn profiles optimized",
-    "15K+ LinkedIn followers and growing",
+    "30K+ LinkedIn followers and growing",
     "Helped clients scale to 6-7 figures",
     "Featured in top marketing platforms",
     "Certified LinkedIn Marketing Expert",
