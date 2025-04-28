@@ -25,7 +25,7 @@ const HeroSection = () => {
                 Book a Strategy Call
                 <ArrowRight size={18} />
               </Button>
-              <Button variant="outline" className="border-white text-white hover:bg-white hover:text-brand-dark text-lg py-6 px-8 rounded-md font-medium transition-all">
+              <Button variant="outline" className="border-brand-teal hover:bg-white hover:text-brand-dark text-lg py-6 px-8 rounded-md font-medium transition-all">
                 View Success Stories
               </Button>
             </div>
