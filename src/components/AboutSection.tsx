@@ -24,7 +24,7 @@ const AboutSection = () => {
               I don't just optimize profiles – I create client magnets that dive deep into your personal story and business value. My approach transforms your LinkedIn presence into a lead-generating machine that works on autopilot.
             </p>
             <p className="text-lg mb-8 text-gray-700">
-              With over 100+ successful client transformations and a community of 15K+ followers, I've developed a proven system to help entrepreneurs leverage LinkedIn for sustainable business growth.
+              With over 100+ successful client transformations and a community of 30k+ followers, I've developed a proven system to help entrepreneurs leverage LinkedIn for sustainable business growth.
             </p>
             
             <div className="grid grid-cols-2 gap-4">
